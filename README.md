@@ -92,3 +92,4 @@ Dataset must be at `data/loan_prediction.csv` (see Kaggle download above).
 - **Report:** `MODEL_REPORT.md` — trade-offs between models and a suggested probability threshold for deployment.
 - **Submission:** See `SUBMISSION.md` for portal steps; run `python generate_submission_pdf.py` to create `Loan_Approval_Submission.pdf`.
 # Loan_approval_prediction
+# Loan_approval_prediction
