@@ -1,0 +1,40 @@
+Copy-paste into the Task Submission page (replace placeholders).
+
+================================================================================
+TASK: Loan Approval Prediction
+================================================================================
+
+Task number: [e.g. Task 3 / Module 2 — fill per your portal]
+
+--- GitHub ---
+Repository:
+https://github.com/YOUR_USERNAME/YOUR_REPO
+
+Main notebook:
+https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/internship/Zomato/loan/loan_approval_prediction.ipynb
+
+README (dataset + setup):
+https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/internship/Zomato/loan/README.md
+
+Model report (markdown):
+https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/internship/Zomato/loan/MODEL_REPORT.md
+
+--- PDF / document (choose one) ---
+Submission PDF (executive summary + charts) on GitHub:
+https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/internship/Zomato/loan/Loan_Approval_Submission.pdf
+
+OR Google Drive (if PDF uploaded to Drive):
+https://drive.google.com/...
+
+--- Optional ---
+Google Drive (large models / extra screenshots):
+[leave blank or paste link]
+
+--- Short summary for reviewers ---
+Built end-to-end loan approval classifier on 614 Kaggle applications: EDA (6 plots),
+median/mode imputation, one-hot encoding, scaling, SMOTE/undersampling/class weights,
+compared logistic regression, decision tree, and random forest (precision, recall, F1,
+ROC-AUC). Recommended deployment: logistic regression + threshold 0.40; details in
+MODEL_REPORT.md and Loan_Approval_Submission.pdf.
+
+================================================================================
