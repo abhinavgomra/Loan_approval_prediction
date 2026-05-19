@@ -1,4 +1,4 @@
-# Loan Approval Prediction
+# Loan Approval Predictor
 
 End-to-end supervised learning project to predict whether a loan application is **approved (Y)** or **rejected (N)** using borrower and application features.
 
@@ -91,5 +91,4 @@ Dataset must be at `data/loan_prediction.csv` (see Kaggle download above).
 - **Notebook:** Full pipeline—EDA (4+ plots), preprocessing, imbalance strategies (SMOTE, undersampling, class weights), model comparison (logistic regression, decision tree, random forest), metrics (precision, recall, F1, ROC-AUC), and business interpretation.
 - **Report:** `MODEL_REPORT.md` — trade-offs between models and a suggested probability threshold for deployment.
 - **Submission:** See `SUBMISSION.md` for portal steps; run `python generate_submission_pdf.py` to create `Loan_Approval_Submission.pdf`.
-# Loan_approval_prediction
-# Loan_approval_prediction
+# Loan_approval_predictor
